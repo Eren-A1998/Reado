@@ -1,0 +1,182 @@
+﻿@model IEnumerable<OBS.Models.Book>
+@using OBS.Models;
+@{
+    ViewData["Title"] = "All Books";
+    bool genreChanged = false;
+}
+
+<h1>Index</h1>
+@section Search{
+    <div class="col-xl-8 col-lg-12 col-md-12 col-sm-12 border p-3 float-lg-left text-left">
+        <form method="post" action="/books/index">
+            <div class="row">
+
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                    <label for="title" class="lbls">Search by title</label>
+                    <input class="inpt" name="Title" id="title" type="text" />
+                </div>
+
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                    <label class="lbls" for="max">max price</label>
+                    <input class="inpt" name="max" id="max" type="number" />
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                    <label class="lbls float-left" for="auth">Search by author</label>
+                    <input class="inpt" name="Author" id="auth" type="text" />
+                </div>
+
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                    <label class="lbls" for="min">min price</label>
+                    <input class="inpt" name="min" id="min" type="number" />
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                    <label for="Genre" class="lbls">Gener</label>
+                    <select name="Genre" style="padding: 4px 33px; " id="Genre" asp-items="Html.GetEnumSelectList<Genre>()" class="inpt"></select>
+                </div>
+
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                    <label for="PubDate" class="lbls">publish Date</label>
+                    <input name="PubDate" id="PubDate" type="date" style="padding: 2px 11px; " class="inpt" />
+                </div>
+
+            </div>
+
+            <div class="row col-12 mt-4">
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                    <label class="free">Free Books</label>
+                    <input type="checkbox" name="Freebooks" value="Freebooks" />
+                </div>
+
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                    <input class="mybtn float-lg-right" type="submit" value="Filter" />
+                </div>
+            </div>
+
+        </form>
+    </div>
+}
+@section Sort{
+
+    <div class="col-xl-4 col-lg-12 col-md-12 col-sm-12 border p-3 float-lg-right text-left">
+        <form method="get" action="/books/index">
+            <div class="row">
+
+                <div class="col-xl-7 col-lg-6 col-md-6 col-sm-12">
+                    <label class="free" for="item">Choose item to sort</label>
+                </div>
+
+                <div class="col-xl-5 col-lg-6 col-md-6 col-sm-12" style="padding-top: 7px;">
+                    <select id="item" name="item">
+                        <option value="title">title</option>
+                        <option value="author">author</option>
+                        <option value="price">price</option>
+                        <option value="pubdate">publish date</option>
+                    </select>
+                </div>
+
+                <div class="row col-12" style="margin-bottom: 31px; margin-top: 15px;">
+                    <div class="col-xl-7 col-lg-6 col-md-6 col-sm-12">
+                        <label class="free" for="order">Order by:</label>
+                    </div>
+
+                    <div class="col-xl-5 col-lg-6 col-md-6 col-sm-12 " style="padding-top: 7px;">
+                        <select id="order" name="order">
+                            <option value="asc">ascending</option>
+                            <option value="des">descending</option>
+                        </select>
+                    </div>
+
+                </div>
+
+                <div class="row col-12 mt-4">
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                        <input class="mybtn" type="submit" value="Sort" style="float: right;" />
+                    </div>
+                </div>
+            </div>
+
+        </form>
+    </div>
+
+}
+
+
+
+@*<p>
+    <a class="mybtn" asp-action="Create">Create New</a>
+</p>*@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PubDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Author)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PubDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genre)
+                </td>
+                <td>
+                    @*  <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |*@
+                    <a class="mybtn" asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    @*        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> |*@
+                    <a class="mybtn" asp-action="Buy" asp-route-id="@item.Id">Add to Cart</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+@*@section Scripts
+    {
+      <script src="@Url.Content("~/Scripts/jqueryFoo.js")"></script>
+
+    }*@
+
+<script type="text/javascript">
+
+
+   document.getElementById('item').value = '@ViewBag.item';
+   document.getElementById('order').value = '@ViewBag.order';
+
+   //alert('@ViewBag.item');
+
+</script>

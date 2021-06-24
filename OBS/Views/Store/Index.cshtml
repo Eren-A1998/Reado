@@ -1,0 +1,107 @@
+﻿@model IEnumerable<OBS.Models.Book>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<style>
+    .aboutheading {
+        height: 0;
+        padding-bottom: 0;
+    }
+
+    h1 {
+        font-size: 40px;
+        padding-bottom: 0;
+    }
+
+    .dimg {
+        padding-top: 95px;
+    }
+
+    img {
+        height: 5%;
+    }
+
+    .about {
+        padding: 50px 0px;
+    }
+
+    .clbl {
+        font-size: 25px;
+        font-weight: 600;
+        font-family: cursive;
+    }
+
+    .crinpt {
+        border-radius: 15px;
+        border: 1px solid #949494;
+        padding: 3px 35px;
+        margin-left: 65px;
+        width: 45%;
+    }
+</style>
+
+
+
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PubDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Author)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PubDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

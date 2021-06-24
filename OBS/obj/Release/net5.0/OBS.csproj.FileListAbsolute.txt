@@ -1,0 +1,392 @@
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\appsettings.Development.json
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\appsettings.json
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\bundleconfig.json
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\OBS.StaticWebAssets.xml
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\OBS.exe
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\OBS.deps.json
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\OBS.runtimeconfig.json
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\OBS.runtimeconfig.dev.json
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\OBS.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\ref\OBS.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\OBS.pdb
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\OBS.Views.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\OBS.Views.pdb
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Humanizer.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.Identity.Client.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Newtonsoft.Json.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\Stripe.net.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\System.Composition.AttributedModel.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\System.Composition.Convention.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\System.Composition.Hosting.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\System.Composition.Runtime.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\System.Composition.TypedParts.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\System.Runtime.Caching.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.csprojAssemblyReference.cache
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.AssemblyInfoInputs.cache
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.AssemblyInfo.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.csproj.CoreCompileInputs.cache
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.MvcApplicationPartsAssemblyInfo.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.MvcApplicationPartsAssemblyInfo.cache
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.RazorAssemblyInfo.cache
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.RazorAssemblyInfo.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\staticwebassets\OBS.StaticWebAssets.Manifest.cache
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\staticwebassets\OBS.StaticWebAssets.xml
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\scopedcss\bundle\OBS.styles.css
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.TagHelpers.input.cache
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.TagHelpers.output.cache
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.RazorCoreGenerate.cache
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\RegisterAdmin.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books1\Create.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books1\Delete.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books1\Details.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books1\Edit.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books1\Index.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books\Buy.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books\Create.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books\Delete.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books\Details.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books\Edit.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books\myBooks.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Store\Create.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Store\Delete.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Store\Details.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Store\Edit.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Store\Index.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\UserBooks\Create.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\UserBooks\Delete.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\UserBooks\Details.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\UserBooks\Edit.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\UserBooks\Index.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.RazorTargetAssemblyInfo.cache
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.RazorTargetAssemblyInfo.cs
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.Views.pdb
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.csproj.CopyComplete
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\ref\OBS.dll
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.pdb
+F:\ITI_ASP-MVC\Reado-main\OBS\obj\Release\net5.0\OBS.genruntimeconfig.cache
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\ref\OBS.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.pdb
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\appsettings.Development.json
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\bundleconfig.json
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\appsettings.json
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\OBS.StaticWebAssets.xml
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\OBS.exe
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\OBS.deps.json
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\OBS.runtimeconfig.json
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\OBS.runtimeconfig.dev.json
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\OBS.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\ref\OBS.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\OBS.pdb
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\OBS.Views.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\OBS.Views.pdb
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Humanizer.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.Identity.Client.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Newtonsoft.Json.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\Stripe.net.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\System.Composition.AttributedModel.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\System.Composition.Convention.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\System.Composition.Hosting.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\System.Composition.Runtime.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\System.Composition.TypedParts.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\System.Runtime.Caching.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.csprojAssemblyReference.cache
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.AssemblyInfoInputs.cache
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.AssemblyInfo.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.csproj.CoreCompileInputs.cache
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.MvcApplicationPartsAssemblyInfo.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.MvcApplicationPartsAssemblyInfo.cache
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.RazorAssemblyInfo.cache
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.RazorAssemblyInfo.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\staticwebassets\OBS.StaticWebAssets.Manifest.cache
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\staticwebassets\OBS.StaticWebAssets.xml
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\scopedcss\bundle\OBS.styles.css
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.TagHelpers.input.cache
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.TagHelpers.output.cache
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.RazorCoreGenerate.cache
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\RegisterAdmin.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books1\Create.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books1\Delete.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books1\Details.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books1\Edit.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books1\Index.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books\Buy.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books\Create.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books\Delete.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books\Details.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books\Edit.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Books\myBooks.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Store\Create.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Store\Delete.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Store\Details.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Store\Edit.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\Store\Index.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\UserBooks\Create.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\UserBooks\Delete.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\UserBooks\Details.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\UserBooks\Edit.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\UserBooks\Index.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.RazorTargetAssemblyInfo.cache
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.RazorTargetAssemblyInfo.cs
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.Views.pdb
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.csproj.CopyComplete
+E:\Career\ITI\Material\ASP.NET MVC\Project\Project final\Reado-main\OBS\obj\Release\net5.0\OBS.genruntimeconfig.cache

@@ -1,0 +1,33 @@
+﻿.lbls {
+    background: #b32137;
+    color: white;
+    padding: 5px;
+    margin-right: -5px;
+}
+
+.inpt {
+    padding: 3px 15px;
+    border-radius: 1px 15px 16px 0px;
+    outline: none;
+    border: 2px solid #b32137;
+}
+
+.mybtn {
+    width: 115px;
+    font-size: 15px;
+    padding: 6px 0px;
+    background-color: #81256c;
+    color: #fff;
+    display: inline-block;
+    line-height: 16px;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.free {
+    color: black;
+    font-family: ui-rounded;
+    font-size: 22px;
+    font-weight: 500
+}

@@ -1,0 +1,109 @@
+﻿@inject IOptions<OBS.Models.StripeSettings> stripe
+
+@model IEnumerable<OBS.Models.UserBook>
+
+@{ ViewData["Title"] = "My Cart"; }
+
+<style>
+    .aboutheading {
+        height: 0;
+        padding-bottom: 0;
+    }
+
+    h1 {
+        font-size: 40px;
+        padding-bottom: 0;
+        margin-bottom: 22px;
+    }
+
+    .dimg {
+        padding-top: 95px;
+    }
+
+    .about {
+        padding: 50px 0px;
+    }
+
+    .clbl {
+        font-size: 25px;
+        font-weight: 600;
+        font-family: cursive;
+    }
+
+    .val {
+        font-size: 20px;
+        /*font-weight: 600;*/
+        font-family: cursive;
+    }
+
+    .crinpt {
+        border-radius: 15px;
+        border: 1px solid #949494;
+        padding: 3px 35px;
+        margin-left: 65px;
+        width: 45%;
+    }
+</style>
+
+<h1>My Cart</h1>
+
+
+<form method="post" action="/Books/Charge">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Book)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Rating)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Bought)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Book.Author)
+    </td>
+
+    @if (item.Rating != null)
+    {
+<td>
+    @Html.DisplayFor(modelItem => item.Rating)
+</td>
+ }
+else
+{
+<td>
+    Not Rated
+</td>
+}
+    <td>
+        @Html.DisplayFor(modelItem => item.Bought)
+    </td>
+
+    <td>
+        @*@Html.ActionLink("Edit", "Edit", new { id = item.BookId }) |
+        @Html.ActionLink("Details", "Details", new { id = item.BookId }) |*@
+        @Html.ActionLink("Delete", "Delete", new { id = item.BookId })
+    </td>
+</tr>
+}
+        </tbody>
+    </table>
+    <script src="//checkout.stripe.com/v2/checkout.js"
+            class="stripe-button"
+            data-key="@stripe.Value.PublishableKey"
+            data-locale="auto"></script>
+    @*<input type="submit" value="Buy" />*@
+</form>
+
+<a style="margin-top: 40px;" asp-controller="Books" asp-action="Index">Back to List</a>
+
+@*data-amount="100"*@

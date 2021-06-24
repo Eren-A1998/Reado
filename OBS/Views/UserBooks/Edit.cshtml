@@ -1,0 +1,75 @@
+﻿@model OBS.Models.UserBook
+
+@{
+    ViewData["Title"] = "Edit Rating";
+}
+
+<style>
+    .aboutheading {
+        height: 0;
+        padding-bottom: 0;
+    }
+
+    h1 {
+        font-size: 40px;
+        padding-bottom: 0;
+        margin-bottom: 22px;
+    }
+
+    .dimg {
+        padding-top: 95px;
+    }
+
+    .about {
+        padding: 50px 0px;
+    }
+
+    .clbl {
+        font-size: 25px;
+        font-weight: 600;
+        font-family: cursive;
+    }
+
+    .val {
+        font-size: 20px;
+        /*font-weight: 600;*/
+        font-family: cursive;
+    }
+
+    .crinpt {
+        border-radius: 15px;
+        border: 1px solid #949494;
+        padding: 3px 35px;
+        margin-left: 65px;
+        width: 45%;
+    }
+</style>
+
+<h1>Edit</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="BookId" />
+            <input type="hidden" asp-for="UserId" />
+            <div class="form-group">
+                <label asp-for="Rating" class="clbl"></label>
+                <input asp-for="Rating" class="crinpt" />
+                <span asp-validation-for="Rating" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" style="position: absolute; right: 160px; top: 11px;" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a style="position: absolute; top: 350px;" asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

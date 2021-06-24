@@ -1,0 +1,30 @@
+[
+  {
+    "outputFileName": "wwwroot/css/min/jq.min.css",
+    "inputFiles": [
+      // "wwwroot/css/animate.min.css",
+      //"wwwroot/css/bootstrap.min.css",
+      //"wwwroot/css/mystyle.css",
+      //"wwwroot/css/style.css?version=1",
+      //"wwwroot/css/responsive.css",
+
+      //"wwwroot/css/font-awesome.min.css",
+      //"wwwroot/css/jquery.fancybox.min.css",
+      //"wwwroot/css/jquery.ui.min.css",
+      //"wwwroot/css/meanmenu.css",
+      //"wwwroot/css/jquery.mCustomScrollbar.min.css",
+      //"wwwroot/css/owl.carousel.min.css",
+      //"wwwroot/css/nice-select.css",
+      //"wwwroot/css/normalize.css",
+      //"wwwroot/css/site.css",
+      //"wwwroot/css/slick.css",
+
+      "wwwroot/css/jquery.fancybox.min.css",
+      "wwwroot/css/jquery.mCustomScrollbar.min.css",
+      "wwwroot/css/jquery-ui.css"
+
+
+    ],
+    "minify": { "enabled": false}
+  }
+]

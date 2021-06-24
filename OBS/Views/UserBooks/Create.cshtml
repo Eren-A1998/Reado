@@ -1,0 +1,78 @@
+﻿@model OBS.Models.UserBook
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<style>
+    .aboutheading {
+        height: 0;
+        padding-bottom: 0;
+    }
+
+    h1 {
+        font-size: 40px;
+        padding-bottom: 0;
+    }
+
+    .dimg {
+        padding-top: 95px;
+    }
+
+    img {
+        height: 5%;
+    }
+
+    .about {
+        padding: 50px 0px;
+    }
+
+    .clbl {
+        font-size: 25px;
+        font-weight: 600;
+        font-family: cursive;
+    }
+
+    .crinpt {
+        border-radius: 15px;
+        border: 1px solid #949494;
+        padding: 3px 35px;
+        margin-left: 65px;
+        width: 45%;
+    }
+</style>
+
+<h1>Create UserBook</h1>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="BookId" class="clbl"></label>
+                <select asp-for="BookId" class="crinpt" asp-items="ViewBag.BookId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserId" class="clbl"></label>
+                <input asp-for="UserId" class="crinpt" />
+                <span asp-validation-for="UserId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Rating" class="clbl"></label>
+                <input asp-for="Rating" class="crinpt" />
+                <span asp-validation-for="Rating" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a style=" margin-top: 85px;" asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

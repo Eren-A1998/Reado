@@ -1,0 +1,100 @@
+﻿@model IEnumerable<OBS.Models.MyBooks>
+
+@{
+    ViewData["Title"] = "My Books";
+}
+
+
+
+<style>
+    .aboutheading {
+        height: 0;
+        padding-bottom: 0;
+    }
+
+    h1 {
+        font-size: 40px;
+        padding-bottom: 0;
+        margin-bottom: 22px;
+    }
+
+    .dimg {
+        padding-top: 95px;
+    }
+
+    .about {
+        padding: 50px 0px;
+    }
+
+    .clbl {
+        font-size: 25px;
+        font-weight: 600;
+        font-family: cursive;
+    }
+
+    .val {
+        font-size: 20px;
+        /*font-weight: 600;*/
+        font-family: cursive;
+    }
+
+    .crinpt {
+        border-radius: 15px;
+        border: 1px solid #949494;
+        padding: 3px 35px;
+        margin-left: 65px;
+        width: 45%;
+    }
+</style>
+
+
+<h1>My Books</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Book)
+            </th>
+
+
+            <th>
+                @Html.DisplayNameFor(model => model.Rating)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bought)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Book.Title)
+            </td>
+
+            @if (item.Rating == null)
+                {
+                    <td>Not Rated</td>
+                }
+                else
+                {
+                      <td>
+                           @Html.DisplayFor(modelItem => item.Rating)
+                      </td>
+                }
+                
+            <td>
+                @Html.DisplayFor(modelItem => item.Bought)
+            </td>
+            <td>
+                @Html.ActionLink("Rate", "Edit", new { id = item.BookId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.BookId }) |
+                @*@Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

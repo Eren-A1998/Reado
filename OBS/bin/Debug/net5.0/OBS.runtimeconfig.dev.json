@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Huda\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Huda\\.nuget\\packages"
+    ]
+  }
+}
